@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Hearth.Application/Hearth.Application.csproj" />
+  <Project Path="Hearth.Core/Hearth.Core.csproj" />
+  <Project Path="Hearth.Host/Hearth.Host.csproj" />
+  <Project Path="Hearth.Infrastructure/Hearth.Infrastructure.csproj" />
+  <Project Path="Hearth.Tests/Hearth.Tests.csproj" />
+</Solution>
